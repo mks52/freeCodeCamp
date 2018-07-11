@@ -1,5 +1,5 @@
 /**
- * Created By Amol
+ * Created By Manleen
  */
 
 var search = true; // Boolean variable, Usage: Check & Uncheck search button
