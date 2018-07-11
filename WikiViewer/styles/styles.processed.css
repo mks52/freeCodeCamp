@@ -1,0 +1,23 @@
+li {
+  list-style-type: none;
+  text-align: left;
+  border: 1px solid #ffffff;
+  background: #ffffff;
+  padding: 1%;
+}
+
+li:hover {
+  background: #4CAF50;
+}
+
+button:hover {
+  background: #4CAF50;
+}
+
+a {
+  text-decoration: none;
+}
+
+.center {
+  text-align: center;
+}
